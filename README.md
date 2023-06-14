@@ -1,16 +1,3 @@
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <div style="float: right; margin-left: 10px;">
-      <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" width="400" height="200">
-    </div>
-    <!-- Your text content here -->
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur, neque a lobortis tempus, velit urna vestibulum mi, in gravida erat nunc ut lacus.
-  </div>
-</div>
-
-
-
-
 ### Hi everybody 👋
 
 #### I am an Engineering Management Student at Florida Polytechnic University who is passionate about connecting traditional engineering with data.
