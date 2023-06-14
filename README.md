@@ -9,10 +9,10 @@
 
 
 
-
+📰 [email][email] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-
+[email]: tom.mann@fulbrightmail.org
 [instagram]: https://instagram.com/tommnn_
 [linkedin]: https://www.linkedin.com/in/tom-mann-180a261a0/
