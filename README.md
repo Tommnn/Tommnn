@@ -1,4 +1,4 @@
-![picture_coding.png](https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png)| width=100)
+![picture_coding.png](https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png | width=100)
 
 
 ### Hi everybody 👋
