@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on improving my data visualization skills and convey them in an interesting data story.
 - 🌱 I'm currently learning how to tell data stories, illustrate spatial data and how to work efficently on Github.
-- 
+- 💡 Ask me about Data in automotive, AI in quality inspection, R 
+- 😀 Pronouns: he/him
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
