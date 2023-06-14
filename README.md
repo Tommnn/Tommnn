@@ -1,6 +1,8 @@
 
 <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" width="400" height="200">
 
+<img style="float: right;" src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png">
+
 ### Hi everybody 👋
 
 #### I am an Engineering Management Student at Florida Polytechnic University who is passionate about connecting traditional engineering with data science.
