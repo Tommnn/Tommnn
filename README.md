@@ -1,4 +1,4 @@
-[![bg][picture_coding]][linkedin]
+[![tm][picture_coding]][linkedin]
 
 
 ### Hi everybody 👋
