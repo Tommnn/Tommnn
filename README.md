@@ -11,17 +11,11 @@
 - 🌱 I'm currently learning how to tell data stories, illustrate spatial data and how to work efficently on Github.
 - 
 
-
-
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
 [instagram]: https://instagram.com/tommnn_
 [linkedin]: https://www.linkedin.com/in/tom-mann-180a261a0/
-
-
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
-
 
 <p align="center">
   <img src="https://github.com/Tommnn/Tommnn/blob/9d9d57712b0bb1f7044384fa09055fd5d557745a/Hangover.gif" width="400" height="200">
