@@ -8,7 +8,6 @@
 - 🥅 Long-Term Goal: Instead of only creating concepts, bein able to implement IT Projects myself.
 - 💡 Ask me about: Data in the automotive industry, AI in quality inspection, R 
 - 😀 Pronouns: he/him
--
 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
