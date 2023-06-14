@@ -1,5 +1,3 @@
-### Hi everybody 👋
-
 <div style="position:relative;">
   <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" style="width:400px; height:200px; position:absolute; top:0; right:0;">
 </div>
