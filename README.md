@@ -1,11 +1,14 @@
+[![bg][banner]][linkedin]
+
+
 ### Hi everybody 👋
 
 #### I am an Engineering Management Student at Florida Polytechnic University who is passionate about connecting traditional engineering with data science.
 
 
 - 🔭 I’m currently working on improving my data visualization skills and convey them in an interesting data story.
-
-- 📫 How to reach me: tom.mann@fulbrightmail.org
+- 🌱 I'm currently learning how to tell data stories, work with spatial data and how to work efficently on Github.
+- 
 
 
 
