@@ -15,4 +15,4 @@
 
 
 [instagram]: https://instagram.com/tommnn_
-[linkedin]: [https://linkedin.com/in/](https://www.linkedin.com/in/tom-mann-180a261a0/)
+[linkedin]: https://www.linkedin.com/in/tom-mann-180a261a0/
