@@ -1,6 +1,13 @@
-<p align="right">
-  <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" width="400" height="200"> 
-</p>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Your text content here -->
+    ### Hi everybody 👋
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" width="400" height="200">
+  </div>
+</div>
 
 
 ### Hi everybody 👋
@@ -17,6 +24,10 @@
 
 [instagram]: https://instagram.com/tommnn_
 [linkedin]: https://www.linkedin.com/in/tom-mann-180a261a0/
+
+<p align="right">
+  <img src="https://github.com/Tommnn/Tommnn/blob/c4cf089ceb909e13b101d65f8918d86bb1cd862b/picture_coding.png" width="400" height="200"> 
+</p>
 
 <p align="center">
   <img src="https://github.com/Tommnn/Tommnn/blob/9d9d57712b0bb1f7044384fa09055fd5d557745a/Hangover.gif" width="400" height="200">
